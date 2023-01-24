@@ -1,0 +1,21 @@
+2023-01-24 12:05:47,053  INFO [main] b:26 - browser is opened
+2023-01-24 12:05:47,198  INFO [main] b:31 - Browser is maximize
+2023-01-24 12:05:54,217  INFO [main] b:33 - url open
+2023-01-24 12:05:54,417  INFO [main] b:18 - name is entered
+2023-01-24 12:05:54,599  INFO [main] b:20 - mobile no entered
+2023-01-24 12:05:54,804  INFO [main] b:22 - send otp 
+2023-01-24 12:06:25,128  INFO [main] b:27 - emailid entered
+2023-01-24 12:06:25,228  INFO [main] b:30 - click on select state
+2023-01-24 12:06:25,417  INFO [main] b:32 - state entered
+2023-01-24 12:06:27,404  INFO [main] b:34 - class name is entered
+2023-01-24 12:06:28,556  INFO [main] b:44 - browser is closed
+2023-01-24 12:06:28,556  INFO [main] b:46 - End of Program
+2023-01-24 12:06:29,630  INFO [main] b:26 - browser is opened
+2023-01-24 12:06:29,822  INFO [main] b:31 - Browser is maximize
+2023-01-24 12:06:34,264  INFO [main] b:33 - url open
+2023-01-24 12:06:38,461  INFO [main] b:19 - select question btn
+2023-01-24 12:06:38,734  INFO [main] b:21 - enter question
+2023-01-24 12:06:41,354  INFO [main] b:23 - click on search btn
+2023-01-24 12:06:42,561  INFO [main] b:27 - select answer
+2023-01-24 12:06:43,024  INFO [main] b:44 - browser is closed
+2023-01-24 12:06:43,027  INFO [main] b:46 - End of Program
